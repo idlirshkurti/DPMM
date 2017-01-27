@@ -1,2 +1,2 @@
 # DPMM
-Dirichlet Process Beta Mixture Modelling of False Discovery Rates
+Two algorithms which use a Dirichlet Process Beta Mixture technique for modelling False Discovery Rates.
