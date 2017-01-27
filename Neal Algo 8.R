@@ -326,19 +326,4 @@ data <- c(rbeta(10,0.1,6.1),rbeta(10,0.5,3.5))
   pi_bayes <- 1 - 1/(n.iter-n.burnin)*sum(exp_trans(P))
   
   # Density plots
-  denplot(exp_trans(A))
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
-  
-  
+  denplot(exp_trans(A)) 
