@@ -1,4 +1,3 @@
-
 dpmm_neal_8 <- function(data, n.iter, tau, l, s, mua, mub, mup,
 sigma2a, sigma2b, sigma2p, alpha_val, beta_val, pi1 ){
   
