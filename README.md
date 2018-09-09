@@ -2,4 +2,4 @@
 
 __Thesis code__
 
-Two algorithms which use a Dirichlet Process Beta Mixture technique for modelling False Discovery Rates.
+Two algorithms which use Dirichlet Process Beta Mixtures for modelling False Discovery Rates in Phase III clinical trials.
